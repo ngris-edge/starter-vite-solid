@@ -8,7 +8,7 @@ A minimal, good-looking [SolidJS](https://www.solidjs.com/) + [Vite](https://vit
 
 ## Deploy to ngris
 
-[![Deploy to ngris](https://ngris.com/deploy-badge.svg)](https://dashboard.ngris.com/new?repo=https%3A%2F%2Fgithub.com%2Fngris-edge%2Fstarter-vite-solid)
+[![Deploy to ngris](https://ngris.com/deploy-badge.svg)](https://dashboard.ngris.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fngris-edge%2Fstarter-vite-solid)
 
 Click the button, point ngris at your fork, and it will:
 
