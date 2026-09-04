@@ -1,0 +1,20 @@
+{
+  "name": "starter-vite-solid",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SolidJS + Vite starter — builds to dist, deploys in one click on ngris.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.9.3"
+  },
+  "devDependencies": {
+    "babel-preset-solid": "^1.9.3",
+    "vite": "^5.4.10",
+    "vite-plugin-solid": "^2.10.2"
+  }
+}
