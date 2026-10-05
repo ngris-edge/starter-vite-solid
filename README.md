@@ -43,7 +43,7 @@ Static assets in `public/` are copied as-is to the root of `dist/`.
 
 ngris inspects `package.json`, sees Vite, runs the `build` script, and serves the resulting `dist/` directory. No configuration needed — commit and push, and every change redeploys automatically.
 
-Connect the repo with **Import from GitHub** in the ngris dashboard and the ngris GitHub App delivers every push for you: no webhook to add, no access token to paste, and ngris can read only the repositories you pick.
+Connect the repo with **Import from GitHub** in the ngris dashboard and the ngris GitHub App delivers every push for you: no webhook to add, no access token to paste, and ngris can read only the repositories you pick. Turn on **Branch previews** for the app and a push to any other branch builds its own preview URL.
 
 ## License
 
